@@ -16,4 +16,4 @@ LEPS (Little Eagle Protocol (Senseless)) — is a realization of LEP protocol.
 If it needs, library will be extended
 
 ## how to use library?
-move repo directory in your home/Arduino/libraries
+move repo directory in your `home/Arduino/libraries`
